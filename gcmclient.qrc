@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/tray.png</file>
+        <file>images/tray.ico</file>
+        <file>images/tray_noAuth.ico</file>
+        <file>images/tray_noAuth.png</file>
+    </qresource>
+</RCC>

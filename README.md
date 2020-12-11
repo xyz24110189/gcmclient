@@ -1,2 +1,3 @@
-# gcmclient
-国产化环境下的打包工程示例
+# GCMClient
+
+this is a KIAM client  project,  provide Certificate of operation、unified certification feature.
